@@ -3494,12 +3494,7 @@
   dependencies:
     "@types/ws" "*"
 
-"@types/selenium-webdriver@3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.7.tgz#5d3613d1ab3ca08b74d19683a3a7c573129ab18f"
-  integrity sha512-tHdDdGUBKTbiLLwf5mF78EP35F31UZekG+GRNowl8G5rMQoupAT4qWn/7AaGOvmaqvROdqC3Io/hP1ZyO58QkA==
-
-"@types/selenium-webdriver@^3.0.0":
+"@types/selenium-webdriver@3.0.25", "@types/selenium-webdriver@^3.0.0":
   version "3.0.25"
   resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.25.tgz#7982bf5add9539b4e953512354055545e8508cff"
   integrity sha512-gkb8rx0kjHuaVUzIfKa1tVVjnEmjYLufDmoOHKPsaoRraTcNjV9W9ruFWi3Xv821c7M5gZVmrGOT8BJYsY/acQ==
